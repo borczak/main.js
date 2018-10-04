@@ -1,0 +1,1 @@
+alert("Uwielbiam Java Script!");
