@@ -1,1 +1,1 @@
-alert("Uwielbiam Java Script!");
+console.log("Uwielbiam Java Script!");
