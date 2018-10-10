@@ -4,7 +4,7 @@ h1 {
     font-size: 38px;
     background-color: #97bde7;
     color: black;
-    border: solid 5px black;
+    border: solid 4px #000000;
 }
 
 p {
