@@ -1,0 +1,29 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 38px;
+    background-color: #97bde7;
+    color: black;
+    border: solid 5px black;
+}
+
+p {
+    color: #1733f4;
+    font-size: 28px;
+}
+
+button {
+    width: 150px;
+    height: 35px;
+    font-size: 18px;
+    border: solid 2px #000000;
+    background-color: #97bde7;
+}
+
+#usun:hover {
+    background-color: #990000;
+}
+
+#dodaj:hover {
+    background-color: #117311;
+}
